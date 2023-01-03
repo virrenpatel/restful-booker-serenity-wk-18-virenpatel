@@ -1,0 +1,8 @@
+com\restful\booker\model\BookingPojo.class
+com\restful\booker\constants\EndPoint.class
+com\restful\booker\constants\Path.class
+com\restful\booker\model\BookingPojo$BookingDates.class
+com\restful\booker\model\AuthorisationPojo.class
+com\restful\booker\restfulinfo\RestfulSteps.class
+com\restful\booker\utils\PropertyReader.class
+com\restful\booker\utils\TestUtils.class
